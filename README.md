@@ -16,13 +16,3 @@ Sou um Desenvolvedor Front-end apaixonado por criar experiências web intuitivas
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-📊 Estatísticas do GitHub
-
-### Minhas Estatísticas
-
-![Estatísticas do Ian](https://github-readme-stats.vercel.app/api?username=ianprocopio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ianprocopio&layout=compact&theme=dracula)
