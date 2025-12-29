@@ -21,5 +21,8 @@ Sou um Desenvolvedor Front-end apaixonado por criar experiências web intuitivas
 
 📊 Estatísticas do GitHub
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ianprocopio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianprocopio&layout=compact&theme=dracula"/>
+### Minhas Estatísticas
+
+![Estatísticas do Ian](https://github-readme-stats.vercel.app/api?username=ianprocopio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ianprocopio&layout=compact&theme=dracula)
